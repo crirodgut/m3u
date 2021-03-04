@@ -1,0 +1,23 @@
+#EXTM3U 
+#EXTINF:0 tvg-id="TVNPAN" tvg-logo="https://afpanama2.files.wordpress.com/2015/06/logo-tvn.png" group-title="Panama",TVN PAN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
+#EXTINF:0 tvg-id="TELEME" tvg-logo="http://www.paginasamarillasdepanama.com/uploads/images/12670423_10153933526476018_7885418303008330708_n.jpg" group-title="Panama",TELEMETRO
+https://mdstrm.com/live-stream-playlist/5d9cbc550ffcfd4b6db21265.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=HEtKy6aqAHaiB83FAOPJFsnMUwVMmd3g&pid=y16ukk9YLUQpziFp6te2IwOFf3migRH9&an=screen&at=web-app&av=v5.2.104&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dnt=true&access_token=eHq7abS5YeUofvkhXlEGMZxedL3ydi1tssA0Qvn90P4vyUPY0voi3xsxETWl3rVdojqTyhqlIuF
+#EXTINF:0 tvg-id="RPCPAN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f8/Large.RPCPanama-2017-1.png" group-title="Panama",RPC PAN
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=LYQl6wHYdw0tDxqvK5iWHxtHJ4vmHgCW&pid=lTzHEtZbWjQfYsGeQ1eWCnJyUV04K7tA&an=screen&at=web-app&av=v5.2.104&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dnt=true&access_token=ZU4aSiSShAT6K1M3FlfF12vjuo5VonaZqUDU5LepvZqfehhlc36oxMmgsQ41KFGpRddYVc97GOr
+#EXTINF:0 tvg-id="TVMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="Panama",TV MAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="NEX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png" group-title="Panama",NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1725386380.m3u8
+#EXTINF:0 tvg-id="NEX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png" group-title="Panama",NEX TV
+https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="SERTV" tvg-logo="https://sertv.gob.pa/capacitacion/wp-content/uploads/sites/5/2018/10/Untitled-1-01.png" group-title="Panama",SER TV
+https://live-ak.vimeocdn.com/exp=1614717881~acl=%2Fdcc7bbd6-753d-4439-941e-c78512f052eb%2F%2A~hmac=09511414466212cdc21bfc926682d03d67d49d26de08244951cf2a3466375269/dcc7bbd6-753d-4439-941e-c78512f052eb/hls.m3u8?min_seconds=30
+#EXTINF:0 tvg-id="Oye" tvg-logo="https://sertv.gob.pa/capacitacion/wp-content/uploads/sites/5/2018/10/Untitled-1-01.png" group-title="Panama",Oye
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=lwWrQCXGFYybFPmpiWwqXTKZfm0anmXL&pid=7GR2bw1pbEui9t9GUg8rLkbYmwAzgR3o&an=screen&at=web-app&av=v5.2.104&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=Nu9nPv8ym45SORfGZ252cvCdt4eEcuDnEBbyDs6Rjwj6kXJry43x2x2SqwwCZLGxOcMGfJcMh3n&type=dvr
+
+
+
+Disney:
+cristianrodriguez80@hotmail.com 
+hmJS2DTzRn9XTcs
