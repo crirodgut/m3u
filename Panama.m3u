@@ -15,8 +15,148 @@ https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://live-ak.vimeocdn.com/exp=1614717881~acl=%2Fdcc7bbd6-753d-4439-941e-c78512f052eb%2F%2A~hmac=09511414466212cdc21bfc926682d03d67d49d26de08244951cf2a3466375269/dcc7bbd6-753d-4439-941e-c78512f052eb/hls.m3u8?min_seconds=30
 #EXTINF:0 tvg-id="Oye" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/OYE_TV_2017.png/revision/latest/scale-to-width-down/340?cb=20170519130825" group-title="Panama",Oye
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=lwWrQCXGFYybFPmpiWwqXTKZfm0anmXL&pid=7GR2bw1pbEui9t9GUg8rLkbYmwAzgR3o&an=screen&at=web-app&av=v5.2.104&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=Nu9nPv8ym45SORfGZ252cvCdt4eEcuDnEBbyDs6Rjwj6kXJry43x2x2SqwwCZLGxOcMGfJcMh3n&type=dvr
+#EXTINF:-1,FIGHT SPORTS
 
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP026/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
+#EXTINF:-1,MOTORSPORT TV
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP067/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,GARAJE TV
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP027/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,EXTREME SPORTS
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP068/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,Mega
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP004/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+#EXTINF:-1,DKISS
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP128/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,Ten
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP129/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,BEMAD
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP138/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,DMAX
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP073/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,13 TV
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP127/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,ATRESERIES
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP137/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+#EXTINF:-1,DARK
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP171/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,XTRM
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP005/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,DISCOVERY CHANNEL
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP028/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,HISTORIA
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP029/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,C&I
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP030/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,ODISEA
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP031/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+#EXTINF:-1,A&E
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP071/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+#EXTINF:-1,MTVs
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP055/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MTV DANCE
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP037/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,SOL MUSICA
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP078/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MTV LIVE
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP079/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MTV ROCKS
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP080/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MTV HITS
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP081/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MTV
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP082/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,1 CLASSIC
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP083/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MEZZO LIVE
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP084/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,VH1
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP038/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MEZZO
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP039/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+#EXTINF:-1,VENEVISION
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP117/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,CARACOL
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP118/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,AZ CORAZON
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP058/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,EL 13 ARGENTINA
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP116/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,RCN
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP119/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,TV CHILE
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP120/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,CUBAVISION
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP121/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
+#EXTINF:-1,MY ZEN TV
+
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP076/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=fQXaWEI6eUgvUyHpjokB7Bbb6qcJmUdk&pid=3X7g2VyxY79gKSm0MAuY2dwdQCBIX6XQ&an=screen&at=web-app&av=v5.2.105&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dnt=true&access_token=AJFMHCqdcGirJ4k301U6wDO47RWib3NDzOjHeejaoHWgWkW4yyidPR4VZRNxyQXKtR9p5365I5G&adInsertionSessionId=9fd45197-28bd-4f8c-8eec-0d5e4bcc3fdf
