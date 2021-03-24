@@ -15,6 +15,13 @@ https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://live-ak.vimeocdn.com/exp=1614717881~acl=%2Fdcc7bbd6-753d-4439-941e-c78512f052eb%2F%2A~hmac=09511414466212cdc21bfc926682d03d67d49d26de08244951cf2a3466375269/dcc7bbd6-753d-4439-941e-c78512f052eb/hls.m3u8?min_seconds=30
 #EXTINF:0 tvg-id="Oye" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/OYE_TV_2017.png/revision/latest/scale-to-width-down/340?cb=20170519130825" group-title="Panama",Oye
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=lwWrQCXGFYybFPmpiWwqXTKZfm0anmXL&pid=7GR2bw1pbEui9t9GUg8rLkbYmwAzgR3o&an=screen&at=web-app&av=v5.2.104&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=Nu9nPv8ym45SORfGZ252cvCdt4eEcuDnEBbyDs6Rjwj6kXJry43x2x2SqwwCZLGxOcMGfJcMh3n&type=dvr
+
+#EXTINF:0 tvg-id="Antena3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/563px-Atrescine_logo.svg.png" group-title="Spain",Antena 3 Cine
+https://tinyurl.com/a3cinesciurus
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV
 
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
