@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV  2
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV  3
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV  4
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
