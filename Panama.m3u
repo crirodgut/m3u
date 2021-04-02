@@ -19,166 +19,122 @@ https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=r7wfBw
 #EXTINF:0 tvg-id="Antena3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/563px-Atrescine_logo.svg.png" group-title="Spain",Antena 3 Cine
 https://tinyurl.com/a3cinesciurus
 
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV
-
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV  2
-
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV  3
-
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV  4
-
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Accion 
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,FIGHT SPORTS
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Family
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+
+
+#EXTINF:-1,FIGHT SPORTS
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP026/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,MOTORSPORT TV
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP067/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,GARAJE TV
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP027/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,EXTREME SPORTS
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP068/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,Mega
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP004/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
-#EXTINF:-1,DKISS
 
+#EXTINF:-1,DKISS
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP128/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,Ten
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP129/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,BEMAD
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP138/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,DMAX
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP073/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,13 TV
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP127/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,ATRESERIES
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP137/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
-#EXTINF:-1,DARK
 
+#EXTINF:-1,DARK
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP171/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,XTRM
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP005/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,DISCOVERY CHANNEL
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP028/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
-
-
 #EXTINF:-1,HISTORIA
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP029/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,C&I
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP030/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,ODISEA
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP031/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
+
 #EXTINF:-1,A&E
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP071/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
-#EXTINF:-1,MTVs
 
+#EXTINF:-1,MTVs
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP055/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,MTV DANCE
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP037/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,SOL MUSICA
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP078/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,MTV LIVE
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP079/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,MTV ROCKS
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP080/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,MTV HITS
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP081/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,MTV
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP082/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,1 CLASSIC
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP083/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
-#EXTINF:-1,MEZZO LIVE
-
-http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP084/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
-
 #EXTINF:-1,VH1
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP038/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
-#EXTINF:-1,MEZZO
-
-http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP039/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 #EXTINF:-1,VENEVISION
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP117/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,CARACOL
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP118/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,AZ CORAZON
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP058/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,EL 13 ARGENTINA
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP116/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,RCN
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP119/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,TV CHILE
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP120/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,CUBAVISION
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP121/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 #EXTINF:-1,MY ZEN TV
-
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP076/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
 
