@@ -19,18 +19,25 @@ https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=r7wfBw
 #EXTINF:0 tvg-id="Antena3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/563px-Atrescine_logo.svg.png" group-title="Spain",Antena 3 Cine
 https://tinyurl.com/a3cinesciurus
 
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Spotlight
+
+
+#EXTINF:0 tvg-id="RAKUTEN Spotlight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES",RAKUTEN Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV Shows
+#EXTINF:0 tvg-id="RAKUTEN TV Shows" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES",RAKUTEN TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Comedia
+#EXTINF:0 tvg-id="RAKUTEN Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES",RAKUTEN Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Accion 
+#EXTINF:0 tvg-id="RAKUTEN Accion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES",RAKUTEN Accion
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN Family
+#EXTINF:0 tvg-id="RAKUTEN Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES",RAKUTEN Family
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
+
+#EXTINF:0 tvg-id="MMATV" tvg-logo="https://lh3.googleusercontent.com/proxy/xKM024npo7tKOZiwD0zIGJNOsET1qdsEMmSCH3qVo1pHJGd30FnPFJ_aQMpDbE8hDH4rxanlK8bnI3GtvoRZTrsTLmOC_bgsvBwf6UDqlEZa1Vyd3vwhWsiKoqIf9R1z1Q" group-title="Sciurius",MMATV
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/chunks.m3u8
 
 #EXTINF:-1,FIGHT SPORTS
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP026/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
