@@ -32,7 +32,11 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="RAKUTEN Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="Rakuten",RAKUTEN Family
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+EXTINF:0 tvg-id="UHD SPAIN 4K" group-title="GENERALISTAS",UHD SPAIN 4K
+http://18.168.248.67/webdav/UHDSpain.m3u8
 
+EXTINF:0 tvg-id="UHD_SDR SPAIN 4K" group-title="GENERALISTAS",UHD_SDR SPAIN 4K
+http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
 
 #EXTINF:0 tvg-id="MMATV" tvg-logo="https://lh3.googleusercontent.com/proxy/xKM024npo7tKOZiwD0zIGJNOsET1qdsEMmSCH3qVo1pHJGd30FnPFJ_aQMpDbE8hDH4rxanlK8bnI3GtvoRZTrsTLmOC_bgsvBwf6UDqlEZa1Vyd3vwhWsiKoqIf9R1z1Q" group-title="Sciurius",MMATV
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
