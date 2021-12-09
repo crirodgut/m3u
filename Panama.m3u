@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:0 tvg-id="TVNPAN" tvg-logo="https://afpanama2.files.wordpress.com/2015/06/logo-tvn.png" group-title="Panama",TVN PAN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
+#EXTINF:0 tvg-id="TVNPAN" tvg-logo="https://afpanama2.files.wordpress.com/2015/06/logo-tvn.png" group-title="Panama",TVN PAN
+https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
 #EXTINF:0 tvg-id="Miami TV" group-title="GENERALISTAS",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 #EXTINF:0 tvg-id="TELEME" tvg-logo="http://www.paginasamarillasdepanama.com/uploads/images/12670423_10153933526476018_7885418303008330708_n.jpg" group-title="Panama",TELEMETRO
