@@ -20,6 +20,9 @@ https://live-ak.vimeocdn.com/exp=1614717881~acl=%2Fdcc7bbd6-753d-4439-941e-c7851
 #EXTINF:0 tvg-id="Oye" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/OYE_TV_2017.png/revision/latest/scale-to-width-down/340?cb=20170519130825" group-title="Panama",Oye
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=lwWrQCXGFYybFPmpiWwqXTKZfm0anmXL&pid=7GR2bw1pbEui9t9GUg8rLkbYmwAzgR3o&an=screen&at=web-app&av=v5.2.104&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=Nu9nPv8ym45SORfGZ252cvCdt4eEcuDnEBbyDs6Rjwj6kXJry43x2x2SqwwCZLGxOcMGfJcMh3n&type=dvr
 
+#EXTINF:0 tvg-id="TELEME" tvg-logo="http://www.paginasamarillasdepanama.com/uploads/images/12670423_10153933526476018_7885418303008330708_n.jpg" group-title="Panama",TELEMETRO
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8?uid=2Z4gighBdFsJeUdukUg6mS8lrHxIjvKr&sid=YontUPpZUerHY697Vy0lOi9SbOxaKVz9&pid=1OTgXHZJBWyEugmWQZWgTgbvLKwHeIrq&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=XafIUWgmteCWUvndSVpNRzpI0kZ274ihs3TvBfU5G5lDQCjpm3TDs37ukLWtxH7KWXijqnEX7hu&type=dvr&adInsertionSessionId=d95c98af-a37d-4ccf-b22f-841a1b7338af
+
 #EXTINF:0 tvg-id="Antena3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/563px-Atrescine_logo.svg.png" group-title="Spain",Antena 3 Cine
 https://tinyurl.com/a3cinesciurus
 
