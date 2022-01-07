@@ -21,9 +21,9 @@ https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/5d88d659120a717cf93ce620/e
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:0 tvg-id="NEX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png" group-title="Panama",NEX TV
-http://198.1.123.99:1935/live/myStream/playlist.m3u8
+https://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8
 
-#EXTINF:0 tvg-id="NET" tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="Panama",NET TV
+#EXTINF:0 tvg-id="NET" tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="Argentina",NET TV
 https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="SERTV" tvg-logo="https://sertv.gob.pa/capacitacion/wp-content/uploads/sites/5/2018/10/Untitled-1-01.png" group-title="Panama",SER TV
@@ -31,22 +31,8 @@ https://live-ak.vimeocdn.com/exp=1614717881~acl=%2Fdcc7bbd6-753d-4439-941e-c7851
 #EXTINF:0 tvg-id="Oye" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/OYE_TV_2017.png/revision/latest/scale-to-width-down/340?cb=20170519130825" group-title="Panama",Oye
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=r7wfBwHC27VzVK43XM3qmYagB2JmNJfI&sid=lwWrQCXGFYybFPmpiWwqXTKZfm0anmXL&pid=7GR2bw1pbEui9t9GUg8rLkbYmwAzgR3o&an=screen&at=web-app&av=v5.2.104&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=Nu9nPv8ym45SORfGZ252cvCdt4eEcuDnEBbyDs6Rjwj6kXJry43x2x2SqwwCZLGxOcMGfJcMh3n&type=dvr
 
-#EXTINF:0 tvg-id="RAKUTEN Spotlight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="Rakuten",RAKUTEN Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="RAKUTEN TV Shows" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="Rakuten",RAKUTEN TV Shows
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="RAKUTEN Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="Rakuten",RAKUTEN Comedia
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="RAKUTEN Accion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="Rakuten",RAKUTEN Accion
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="RAKUTEN Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="Rakuten",RAKUTEN Family
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:1 tvg-id="UHD SPAIN 4K" tvg-logo="https://ametic.es/sites/default/files//uhd-spain-logo-300x200_0.png" group-title="GENERALISTAS",UHD SPAIN 4K
-http://18.168.248.67/webdav/UHDSpain.m3u8
-
-#EXTINF:1 tvg-id="UHD_SDR SPAIN 4K" tvg-logo="https://ametic.es/sites/default/files//uhd-spain-logo-300x200_0.png" group-title="GENERALISTAS",UHD_SDR SPAIN 4K
-http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
+#EXTINF:1 tvg-id="ADN 40" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u2S3lr.jpg" group-title="Mexico",ADN 40
+https://youtu.be/UKsX8l6f578
 
 #EXTINF:0 tvg-id="MMATV" tvg-logo="https://lh3.googleusercontent.com/proxy/xKM024npo7tKOZiwD0zIGJNOsET1qdsEMmSCH3qVo1pHJGd30FnPFJ_aQMpDbE8hDH4rxanlK8bnI3GtvoRZTrsTLmOC_bgsvBwf6UDqlEZa1Vyd3vwhWsiKoqIf9R1z1Q" group-title="Sciurius",MMATV
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -54,10 +40,7 @@ https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="UFC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png" group-title="Sciurius",UFC-TV
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:0 tvg-id="GOLHD-TV" tvg-logo="https://lh3.googleusercontent.com/proxy/gNxTJaZeYVw_fcZIqDQWHIJEpbcVgeWZCH4wyHok4tM7f-1A4aZ5q4m0ZWCshTj0ADBZ5ilQGnuikz6zS-Ue47lOS96oFDDjRlU7Zm3h9mOEmoMVHju9nk1k10zZB0zGpA" group-title="Sciurius",GOLHD-TV
-https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
-
 #EXTINF:-1,FIGHT SPORTS
 http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP026/2.mpd/Manifest?start=LIVE&end=END&device=DASH_XDSL_ENC_NPVR
 
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/5d88d659120a717cf93ce620/ec85b4776cab428cac904251d14ed492/f624fec49dadc88894ebeff1d974eab019af7757/session/21c08d7d-f744-4fe4-b86a-e15f37453c08/media.m3u8?aid=5d409041e10de808a34fce18&uid=2Z4gighBdFsJeUdukUg6mS8lrHxIjvKr&sid=Im10GSRlSPSVtOXdLXzUwkqYxYmPYO51&pid=q1wAwBIm1NWQmy6LO7OWAslUAQPjPtwT&ref=https%3A%2F%2Fwww.rpctv.com%2F&without_cookies=false&dnt=true&es=us-b4-p-e-lh9.cdn.mdstrm.com&ote=1641604972683&ot=5W_5H-wRnhhRkoHZ0w6lkg&proto=https&pz=us
+
