@@ -26,9 +26,6 @@ https://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8
 #EXTINF:0 tvg-id="NET" tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="Argentina",NET TV
 https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:1 tvg-id="ADN 40" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u2S3lr.jpg" group-title="Mexico",ADN 40
-https://youtu.be/UKsX8l6f578
-
 #EXTINF:0 tvg-id="MMATV" tvg-logo="https://lh3.googleusercontent.com/proxy/xKM024npo7tKOZiwD0zIGJNOsET1qdsEMmSCH3qVo1pHJGd30FnPFJ_aQMpDbE8hDH4rxanlK8bnI3GtvoRZTrsTLmOC_bgsvBwf6UDqlEZa1Vyd3vwhWsiKoqIf9R1z1Q" group-title="Sciurius",MMATV
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -41,7 +38,7 @@ http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP026/2.mpd/Manifest?start=LIVE&end=
 #EXTINF:0 tvg-id="ESPN INT" tvg-logo="https://espnpressroom.com/latinamerica/files/2009/11/ESPN_Intnl_BW_Pos5-300x149.jpg" group-title="Sciurius",ESPN INT
 http://45.161.252.33/ESPN_INT/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="ESPN2" tvg-logo="https://images.app.goo.gl/7NbgvQeYfJvhmcx27" group-title="Sciurius",ESPN2
+#EXTINF:0 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1200px-Espn2.svg.png" group-title="Sciurius",ESPN2
 http://50.7.34.155:2200/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:0 tvg-id="Fox Sports 2" tvg-logo="https://w7.pngwing.com/pngs/773/988/png-transparent-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-television-emblem-text.png" group-title="Sciurius",Fox Sports 2
