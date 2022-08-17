@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]Sciurus[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://tdts.duckdns.org:3139/picon/e3bbe7fe/1_0_19_7863_41A_1_C00000_0_0_0.png",group-title="Movistar+ IPLUSHD" La 1 HD
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae1e83db/e3bbe7fe
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/a3hd.png",Antena 3 HD
+https://sciurus.tel/canal/?c=3&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cuatrohd.png",Cuatro HD
+https://sciurus.tel/canal/?c=4&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tele5hd.png",Telecinco HD
+https://sciurus.tel/canal/?c=5&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/lasextahd.png",La sexta HD
+https://sciurus.tel/canal/?c=6&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cero.png",#0 HD
+https://sciurus.tel/canal/?c=11&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/vamos.png",#Vamos HD
+https://sciurus.tel/canal/?c=12&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MV2.png",Movistar+ Series HD
+https://sciurus.tel/canal/?c=13&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/CPSER.png",Movistar+ Series 2 HD
+https://sciurus.tel/canal/?c=14&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/foxhd.png",Fox HD
+https://sciurus.tel/canal/?c=15&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/axnhd.png",AXN HD
+https://sciurus.tel/canal/?c=16&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tnthd.png",TNT HD
+https://sciurus.tel/canal/?c=17&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/comedycentral.png",Comedy Central HD
+https://sciurus.tel/canal/?c=18&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/calle13.png",Calle 13 HD
+https://sciurus.tel/canal/?c=19&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cosmohd.png",Cosmo HD
+https://sciurus.tel/canal/?c=20&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/amchd.png",AMC HD
+https://sciurus.tel/canal/?c=21&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/foxlifehd.png",Fox Life HD
+https://sciurus.tel/canal/?c=22&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/axnwhitehd.png",AXN White HD
+https://sciurus.tel/canal/?c=23&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/syfy.png",Syfy HD
+https://sciurus.tel/canal/?c=24&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mestrenos.png",Movistar+ Estrenos HD
+https://sciurus.tel/canal/?c=41&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MEST2.png",Movistar+ Estrenos 2 HD
+https://sciurus.tel/canal/?c=42&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/maccion.png",Movistar+ Acción HD
+https://sciurus.tel/canal/?c=44&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mcomedia.png",Movistar+ Comedia HD
+https://sciurus.tel/canal/?c=45&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdrama.png",Movistar+ Drama HD
+https://sciurus.tel/canal/?c=46&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tcm.png",TCM HD
+https://sciurus.tel/canal/?c=48&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/hollywood.png",Hollywood HD
+https://sciurus.tel/canal/?c=49&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laligatvbar.png",LaLiga TV Bar HD
+https://sciurus.tel/canal/?c=61&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga.png",Movistar+ LaLiga HD
+https://sciurus.tel/canal/?c=69&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga1.png",Movistar+ LaLiga 1 HD
+https://sciurus.tel/canal/?c=70&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga2.png",Movistar+ LaLiga 2 HD
+https://sciurus.tel/canal/?c=71&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga3.png",Movistar+ LaLiga 3 HD
+https://sciurus.tel/canal/?c=72&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam.png",Movistar+ Liga de Campeones HD
+https://sciurus.tel/canal/?c=80&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam1.png",Movistar+ Liga de Campeones 1 HD
+https://sciurus.tel/canal/?c=81&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam2.png",Movistar+ Liga de Campeones 2 HD
+https://sciurus.tel/canal/?c=82&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/M1SD.png",DAZN 1 HD
+https://sciurus.tel/canal/?c=89&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/M2SD.png",DAZN 2 HD
+https://sciurus.tel/canal/?c=90&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/DAZN3.png",DAZN 3 HD
+https://sciurus.tel/canal/?c=91&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/DAZN4.png",DAZN 4 HD
+https://sciurus.tel/canal/?c=92&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes.png",Movistar+ Deportes HD
+https://sciurus.tel/canal/?c=93&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes1.png",Movistar+ Deportes 1 HD
+https://sciurus.tel/canal/?c=94&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MVF1.png",DAZN F1 HD
+https://sciurus.tel/canal/?c=101&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mgolf.png",Movistar+ Golf HD
+https://sciurus.tel/canal/?c=102&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/eurosport1hd.png",Eurosport 1 HD
+https://sciurus.tel/canal/?c=103&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cazaypesca.png",Caza y pesca HD
+https://sciurus.tel/canal/?c=107&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/natgeohd.png",National Geographic HD
+https://sciurus.tel/canal/?c=120&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/natwild.png",Nat Geo Wild HD
+https://sciurus.tel/canal/?c=121&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/viajarhd.png",Viajar HD
+https://sciurus.tel/canal/?c=126&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/nickelodeon.png",Nickelodeon HD
+https://sciurus.tel/canal/?c=144&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/disneyhd.png",Disney Channel HD
+https://sciurus.tel/canal/?c=145&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/DWSP.png",Dreamworks HD
+https://sciurus.tel/canal/?c=148&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mezzo.png",Mezzo HD
+https://sciurus.tel/canal/?c=151&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mezzolivehd.png",Mezzo Live HD
+https://sciurus.tel/canal/?c=152&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/aljaz.png",Al Jazeera English HD
+https://sciurus.tel/canal/?c=166&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/rt.png",RT Español HD
+https://sciurus.tel/canal/?c=168&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/telesurhd.png",Telesur HD
+https://sciurus.tel/canal/?c=176&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/servus.png",Extra: Servus TV Deutschland HD
+https://sciurus.tel/canal/?c=192&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/la1.png",La 1 SD
+https://sciurus.tel/canal/?c=1001&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/la2.png",La 2 SD
+https://sciurus.tel/canal/?c=1002&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/a3.png",Antena 3 SD
+https://sciurus.tel/canal/?c=1003&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cuatro.png",Cuatro SD
+https://sciurus.tel/canal/?c=1004&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tele5.png",Telecinco SD
+https://sciurus.tel/canal/?c=1005&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/lasexta.png",La sexta SD
+https://sciurus.tel/canal/?c=1006&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/portada.png",Movistar+ Portada SD
+https://sciurus.tel/canal/?c=1010&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cero.png",#0 SD
+https://sciurus.tel/canal/?c=1011&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/vamos.png",#Vamos SD
+https://sciurus.tel/canal/?c=1012&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MV2.png",Movistar+ Series SD
+https://sciurus.tel/canal/?c=1013&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/CPSER.png",Movistar+ Series 2 SD
+https://sciurus.tel/canal/?c=1014&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/fox.png",Fox SD
+https://sciurus.tel/canal/?c=1015&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/axn.png",AXN SD
+https://sciurus.tel/canal/?c=1016&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tnt.png",TNT SD
+https://sciurus.tel/canal/?c=1017&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/comedycentral.png",Comedy Central SD
+https://sciurus.tel/canal/?c=1018&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/calle13.png",Calle 13 SD
+https://sciurus.tel/canal/?c=1019&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cosmo.png",Cosmo SD
+https://sciurus.tel/canal/?c=1020&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/amc.png",AMC SD
+https://sciurus.tel/canal/?c=1021&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/foxlife.png",Fox Life SD
+https://sciurus.tel/canal/?c=1022&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/axnwhite.png",AXN White SD
+https://sciurus.tel/canal/?c=1023&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/syfy.png",Syfy SD
+https://sciurus.tel/canal/?c=1024&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MONFIR.png",M. Fest SD
+https://sciurus.tel/canal/?c=1025&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mtvespana.png",MTV España SD
+https://sciurus.tel/canal/?c=1026&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/fdf.png",Factoría de Ficción SD
+https://sciurus.tel/canal/?c=1027&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/neox.png",Neox SD
+https://sciurus.tel/canal/?c=1028&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/energy.png",Energy SD
+https://sciurus.tel/canal/?c=1029&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/multicine.png",Movistar+ Multicine SD
+https://sciurus.tel/canal/?c=1040&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mestrenos.png",Movistar+ Estrenos SD
+https://sciurus.tel/canal/?c=1041&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MEST2.png",Movistar+ Estrenos 2 SD
+https://sciurus.tel/canal/?c=1042&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/disneyplus.png",Disney + SD
+https://sciurus.tel/canal/?c=1043&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/maccion.png",Movistar+ Acción SD
+https://sciurus.tel/canal/?c=1044&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mcomedia.png",Movistar+ Comedia SD
+https://sciurus.tel/canal/?c=1045&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdrama.png",Movistar+ Drama SD
+https://sciurus.tel/canal/?c=1046&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mcinen.png",Movistar+ Cine Ñ SD
+https://sciurus.tel/canal/?c=1047&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tcm.png",TCM SD
+https://sciurus.tel/canal/?c=1048&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/hollywood.png",Hollywood SD
+https://sciurus.tel/canal/?c=1049&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/sundance.png",Sundance SD
+https://sciurus.tel/canal/?c=1050&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/paramount.png",Paramount Channel SD
+https://sciurus.tel/canal/?c=1051&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/multideporte.png",Movistar+ Multideporte SD
+https://sciurus.tel/canal/?c=1060&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laligatvbar.png",LaLiga TV Bar SD
+https://sciurus.tel/canal/?c=1061&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laligatvbar.png",LaLiga TV Bar 1 SD
+https://sciurus.tel/canal/?c=1062&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laligatvbar.png",LaLiga TV Bar 2 SD
+https://sciurus.tel/canal/?c=1063&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laligatvbar.png",LaLiga TV Bar 3 SD
+https://sciurus.tel/canal/?c=1064&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laligatvbar.png",LaLiga TV Bar 4 SD
+https://sciurus.tel/canal/?c=1065&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/vamos.png",#Vamos Bar SD
+https://sciurus.tel/canal/?c=1066&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/vamos.png",#Vamos Bar 1 SD
+https://sciurus.tel/canal/?c=1067&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/vamos.png",#Vamos Bar 2 SD
+https://sciurus.tel/canal/?c=1068&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga.png",Movistar+ LaLiga SD
+https://sciurus.tel/canal/?c=1069&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga1.png",Movistar+ LaLiga 1 SD
+https://sciurus.tel/canal/?c=1070&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga2.png",Movistar+ LaLiga 2 SD
+https://sciurus.tel/canal/?c=1071&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga3.png",Movistar+ LaLiga 3 SD
+https://sciurus.tel/canal/?c=1072&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga4.png",Movistar+ LaLiga 4 SD
+https://sciurus.tel/canal/?c=1073&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga5.png",Movistar+ LaLiga 5 SD
+https://sciurus.tel/canal/?c=1074&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga6.png",Movistar+ LaLiga 6 SD
+https://sciurus.tel/canal/?c=1075&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga7.png",Movistar+ LaLiga 7 SD
+https://sciurus.tel/canal/?c=1076&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga8.png",Movistar+ LaLiga 8 SD
+https://sciurus.tel/canal/?c=1077&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga9.png",Movistar+ LaLiga 9 SD
+https://sciurus.tel/canal/?c=1078&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga10.png",Movistar+ LaLiga 10 SD
+https://sciurus.tel/canal/?c=1079&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam.png",Movistar+ Liga de Campeones SD
+https://sciurus.tel/canal/?c=1080&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam1.png",Movistar+ Liga de Campeones 1 SD
+https://sciurus.tel/canal/?c=1081&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam2.png",Movistar+ Liga de Campeones 2 SD
+https://sciurus.tel/canal/?c=1082&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam3.png",Movistar+ Liga de Campeones 3 SD
+https://sciurus.tel/canal/?c=1083&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam4.png",Movistar+ Liga de Campeones 4 SD
+https://sciurus.tel/canal/?c=1084&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam5.png",Movistar+ Liga de Campeones 5 SD
+https://sciurus.tel/canal/?c=1085&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam6.png",Movistar+ Liga de Campeones 6 SD
+https://sciurus.tel/canal/?c=1086&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam7.png",Movistar+ Liga de Campeones 7 SD
+https://sciurus.tel/canal/?c=1087&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/ligacam8.png",Movistar+ Liga de Campeones 8 SD
+https://sciurus.tel/canal/?c=1088&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/M1SD.png",DAZN 1 SD
+https://sciurus.tel/canal/?c=1089&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/M2SD.png",DAZN 2 SD
+https://sciurus.tel/canal/?c=1090&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/DAZN3.png",DAZN 3 SD
+https://sciurus.tel/canal/?c=1091&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/DAZN4.png",DAZN 4 SD
+https://sciurus.tel/canal/?c=1092&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes.png",Movistar+ Deportes SD
+https://sciurus.tel/canal/?c=1093&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes1.png",Movistar+ Deportes 1 SD
+https://sciurus.tel/canal/?c=1094&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes2.png",Movistar+ Deportes 2 SD
+https://sciurus.tel/canal/?c=1095&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes3.png",Movistar+ Deportes 3 SD
+https://sciurus.tel/canal/?c=1096&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes4.png",Movistar+ Deportes 4 SD
+https://sciurus.tel/canal/?c=1097&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes5.png",Movistar+ Deportes 5 SD
+https://sciurus.tel/canal/?c=1098&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes6.png",Movistar+ Deportes 6 SD
+https://sciurus.tel/canal/?c=1099&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdeportes7.png",Movistar+ Deportes 7 SD
+https://sciurus.tel/canal/?c=1100&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MVF1.png",DAZN F1 SD
+https://sciurus.tel/canal/?c=1101&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mgolf.png",Movistar+ Golf SD
+https://sciurus.tel/canal/?c=1102&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/eurosport1.png",Eurosport 1 SD
+https://sciurus.tel/canal/?c=1103&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mgolf.png",Movistar+ Golf SD
+https://sciurus.tel/canal/?c=1102&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/eurosport1.png",Eurosport 1 SD
+https://sciurus.tel/canal/?c=1103&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/eurosport2.png",Eurosport 2 SD
+https://sciurus.tel/canal/?c=1104&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/gol.png",GOL TV SD
+https://sciurus.tel/canal/?c=1105&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/teledeporte.png",Teledeporte SD
+https://sciurus.tel/canal/?c=1106&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cazaypesca.png",Caza y pesca SD
+https://sciurus.tel/canal/?c=1107&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/iberalia.png",Iberalia TV SD
+https://sciurus.tel/canal/?c=1108&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/toros.png",Toros TV SD
+https://sciurus.tel/canal/?c=1109&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/natgeo.png",National Geographic SD
+https://sciurus.tel/canal/?c=1120&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/natwild.png",Nat Geo Wild SD
+https://sciurus.tel/canal/?c=1121&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/historia.png",Historia SD
+https://sciurus.tel/canal/?c=1122&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/discovery.png",Discovery Channel SD
+https://sciurus.tel/canal/?c=1123&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/odisea.png",Odisea SD
+https://sciurus.tel/canal/?c=1124&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/blaze.png",Blaze SD
+https://sciurus.tel/canal/?c=1125&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/viajar.png",Viajar SD
+https://sciurus.tel/canal/?c=1126&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/crimen.png",Crimen + Investigación SD
+https://sciurus.tel/canal/?c=1127&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cocina.png",Canal Cocina SD
+https://sciurus.tel/canal/?c=1128&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/decasa.png",Canal Decasa SD
+https://sciurus.tel/canal/?c=1129&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/divinity.png",Divinity SD
+https://sciurus.tel/canal/?c=1130&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/nova.png",Nova SD
+https://sciurus.tel/canal/?c=1131&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mega.png",Mega SD
+https://sciurus.tel/canal/?c=1132&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/bemad.png",BE MAD SD
+https://sciurus.tel/canal/?c=1133&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/babytv.png",Baby TV SD
+https://sciurus.tel/canal/?c=1140&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/djunior.png",Disney Junior SD
+https://sciurus.tel/canal/?c=1141&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/panda.png",Canal Panda SD
+https://sciurus.tel/canal/?c=1142&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/nickjr.png",Nick Jr SD
+https://sciurus.tel/canal/?c=1143&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/nickelodeon.png",Nickelodeon SD
+https://sciurus.tel/canal/?c=1144&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/disney.png",Disney Channel SD
+https://sciurus.tel/canal/?c=1145&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/boing.png",Boing SD
+https://sciurus.tel/canal/?c=1146&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/clan.png",Clan TVE SD
+https://sciurus.tel/canal/?c=1147&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/DWSP.png",Dreamworks SD
+https://sciurus.tel/canal/?c=1148&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/VH1.png",MTV 00´s SD
+https://sciurus.tel/canal/?c=1150&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mezzo.png",Mezzo SD
+https://sciurus.tel/canal/?c=1151&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/classica.png",Classica SD
+https://sciurus.tel/canal/?c=1153&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/playboy.png",Playboy TV SD
+https://sciurus.tel/canal/?c=1160&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/24h.png",24 Horas SD
+https://sciurus.tel/canal/?c=1161&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/bbc.png",BBC World SD
+https://sciurus.tel/canal/?c=1162&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cnn.png",CNN Int. SD
+https://sciurus.tel/canal/?c=1163&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/foxnews.png",Fox News SD
+https://sciurus.tel/canal/?c=1164&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/euronews.png",Euronews SD
+https://sciurus.tel/canal/?c=1165&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/aljaz.png",Al Jazeera English SD
+https://sciurus.tel/canal/?c=1166&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/f24.png",France 24 (in English) SD
+https://sciurus.tel/canal/?c=1167&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/rt.png",RT Español SD
+https://sciurus.tel/canal/?c=1168&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cnbc.png",CNBC Europe SD
+https://sciurus.tel/canal/?c=1169&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tv5.png",TV5 Monde Europe SD
+https://sciurus.tel/canal/?c=1170&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/bloomberg.png",Bloomberg Europe TV SD
+https://sciurus.tel/canal/?c=1171&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/skynews.png",Sky News SD
+https://sciurus.tel/canal/?c=1172&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/rt.png",RT Eng SD
+https://sciurus.tel/canal/?c=1173&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/rec.png",TV Record SD
+https://sciurus.tel/canal/?c=1174&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cubavision.png",Cubavisión SD
+https://sciurus.tel/canal/?c=1175&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/telesur.png",Telesur SD
+https://sciurus.tel/canal/?c=1176&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/arirang.png",Arirang TV SD
+https://sciurus.tel/canal/?c=1177&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/nhk.png",NHK World TV SD
+https://sciurus.tel/canal/?c=1178&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/csur.png",Canal Sur Andalucía SD
+https://sciurus.tel/canal/?c=1179&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/extremadura.png",Canal Extremadura SD
+https://sciurus.tel/canal/?c=1190&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/aragon.png",Aragón TV SD
+https://sciurus.tel/canal/?c=1191&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/servus.png",Extra: Servus TV Deutschland SD
+https://sciurus.tel/canal/?c=1192&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/toros.png",Toros TV HD
+https://sciurus.tel/canal/?c=109&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/realmadrid.png",Real Madrid TV SD
+https://sciurus.tel/canal/?c=1110&l=43c0a059
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/barsa.png",Barça TV SD
+https://sciurus.tel/canal/?c=1111&l=43c0a059
