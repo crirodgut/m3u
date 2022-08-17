@@ -1,58 +1,60 @@
 #EXTM3U
 #EXTINF:-1,[COLOR yellow]Sciurus[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://tdts.duckdns.org:3139/picon/e3bbe7fe/1_0_19_7863_41A_1_C00000_0_0_0.png",La 1 HD
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/la1hd.png",La 1 HD
 https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae1e83db/e3bbe7fe
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/la1hd.png",La 2
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae350a39/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/a3hd.png",Antena 3 HD
-https://sciurus.tel/canal/?c=3&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae77e30c/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cuatrohd.png",Cuatro HD
-https://sciurus.tel/canal/?c=4&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae9b0c66/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tele5hd.png",Telecinco HD
-https://sciurus.tel/canal/?c=5&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae623e9a/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/lasextahd.png",La sexta HD
-https://sciurus.tel/canal/?c=6&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae9047b5/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cero.png",#0 HD
-https://sciurus.tel/canal/?c=11&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae098659/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/vamos.png",#Vamos HD
-https://sciurus.tel/canal/?c=12&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae6b5a29/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MV2.png",Movistar+ Series HD
-https://sciurus.tel/canal/?c=13&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaee8d19a/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/CPSER.png",Movistar+ Series 2 HD
-https://sciurus.tel/canal/?c=14&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae895431/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/foxhd.png",Fox HD
-https://sciurus.tel/canal/?c=15&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaeb042d4/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/axnhd.png",AXN HD
-https://sciurus.tel/canal/?c=16&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae47403b/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tnthd.png",TNT HD
-https://sciurus.tel/canal/?c=17&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaee3f569/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/comedycentral.png",Comedy Central HD
-https://sciurus.tel/canal/?c=18&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaefc6a19/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/calle13.png",Calle 13 HD
-https://sciurus.tel/canal/?c=19&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaee41955/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/cosmohd.png",Cosmo HD
-https://sciurus.tel/canal/?c=20&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae43761c/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/amchd.png",AMC HD
-https://sciurus.tel/canal/?c=21&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae1eab21/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/foxlifehd.png",Fox Life HD
 https://sciurus.tel/canal/?c=22&l=43c0a059
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/axnwhitehd.png",AXN White HD
-https://sciurus.tel/canal/?c=23&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaea08900/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/syfy.png",Syfy HD
-https://sciurus.tel/canal/?c=24&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaef763a5/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mestrenos.png",Movistar+ Estrenos HD
-https://sciurus.tel/canal/?c=41&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaee5360c/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/MEST2.png",Movistar+ Estrenos 2 HD
-https://sciurus.tel/canal/?c=42&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae12a7b4/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/maccion.png",Movistar+ Acción HD
-https://sciurus.tel/canal/?c=44&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efaec1aaef/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mcomedia.png",Movistar+ Comedia HD
-https://sciurus.tel/canal/?c=45&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae81ab90/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/mdrama.png",Movistar+ Drama HD
-https://sciurus.tel/canal/?c=46&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae2fd054/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/tcm.png",TCM HD
-https://sciurus.tel/canal/?c=48&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae562927/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/hollywood.png",Hollywood HD
-https://sciurus.tel/canal/?c=49&l=43c0a059
+https://tdts.duckdns.org:3139/services/24a6d1/channel/a5efae041794/e3bbe7fe
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laligatvbar.png",LaLiga TV Bar HD
 https://sciurus.tel/canal/?c=61&l=43c0a059
 #EXTINF:-1 tvg-logo="https://sciurus.tel/logos/laliga.png",Movistar+ LaLiga HD
