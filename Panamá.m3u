@@ -1,5 +1,9 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
+
+#EXTINF:0 tvg-id="TVN" group-title="GENERALISTAS",TVN
+https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/f726ba979e3d4ef88edaa486960eca2c/../profile_0/067a75fca3534e2189cfeecd46f93327/chunklist_dvr_ssaiV.m3u8
+
 #EXTINF:0 tvg-id="TELEMETRO" group-title="GENERALISTAS",TELEMETRO
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDQ6NTI6MDQgUE0maGFzaF92YWx1ZT1pTmtDd0RNYzY2bDBHSVdHZml2bWtRPT0mdmFsaWRtaW51dGVzPTM2MA==
 
@@ -11,9 +15,11 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8?wmsAuthSig
 #EXTINF:0 tvg-id="TV MAX" group-title="GENERALISTAS",TV MAX
 https://ssai.ooyala.com/hls/delta/tvn-bc-live-delivery.akamaized.net/out/u/229ymkag04945/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8?s=ad_live&t=ads_live_tvmax&ssai_guid=353fd7f6-4434-46b5-9482-82e8d75dfe4e&player_params=%7B%22core_version%22%3A4%2C%22vast_proxy_url%22%3A%22http%3A%2F%2Fplayer.ooyala.com%2Fadinsertion%2Fvast_proxy%22%2C%22tweaks%22%3A%5B%22%22%5D%2C%22maxAdsTimeout%22%3A5%2C%22maxVastWrapperDepth%22%3A3%2C%22minLiveSeekWindow%22%3A10%2C%22autoplay%22%3Afalse%2C%22loop%22%3Afalse%2C%22skin%22%3A%7B%22config%22%3A%22https%3A%2F%2Fwww.tvmax-9.com%2Fstatic%2FTVNVideo%2Fooyala%2Flive-skin.json%22%7D%2C%22encodingPriority%22%3A%5B%22hls%22%5D%2C%22initialBitrate%22%3A%7B%22level%22%3A%220.4%22%2C%22duration%22%3A10%7D%2C%22pcode%22%3A%22R0MGkyOujhjn2MT1bhFzzFWVhNzk%22%2C%22playerBrandingId%22%3A%22641a7ee7148543258eea7b0089cdb5e7%22%2C%22videoplaza-ads-manager%22%3A%7B%22pulse_host%22%3A%22https%3A%2F%2Fpa-tvnpanama.videoplaza.tv%22%2C%22pulse_category%22%3A%22sls_envivo%22%7D%7D&oosm=1
 
-#EXTINF:0 tvg-id="TVN" group-title="GENERALISTAS",TVN
-https://ssai.ooyala.com/hls/delta/tvn-bc-live-delivery.akamaized.net/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8?s=ad_live&t=ads_live_tvn&ssai_guid=d6b518e6-d622-4a84-85c2-779666dba9b8&player_params=%7B%22core_version%22%3A4%2C%22vast_proxy_url%22%3A%22http%3A%2F%2Fplayer.ooyala.com%2Fadinsertion%2Fvast_proxy%22%2C%22tweaks%22%3A%5B%22%22%5D%2C%22maxAdsTimeout%22%3A5%2C%22maxVastWrapperDepth%22%3A3%2C%22minLiveSeekWindow%22%3A10%2C%22autoplay%22%3Afalse%2C%22loop%22%3Afalse%2C%22skin%22%3A%7B%22config%22%3A%22https%3A%2F%2Fwww.tvn-2.com%2Fstatic%2FTVNVideo%2Fooyala%2Flive-skin.json%22%7D%2C%22encodingPriority%22%3A%5B%22hls%22%5D%2C%22initialBitrate%22%3A%7B%22level%22%3A%220.4%22%2C%22duration%22%3A10%7D%2C%22pcode%22%3A%22R0MGkyOujhjn2MT1bhFzzFWVhNzk%22%2C%22playerBrandingId%22%3A%2274d3868de74b4f2283440e7bf4432190%22%2C%22iosPlayMode%22%3A%22inline%22%2C%22videoplaza-ads-manager%22%3A%7B%22pulse_host%22%3A%22https%3A%2F%2Fpa-tvnpanama.videoplaza.tv%22%7D%7D
+#EXTINF:0 tvg-id="NEX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png" group-title="Panama",NEX TV
+https://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8
 
+#EXTINF:0 tvg-id="OyeTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Oyetv.png" group-title="Panama",OyeTv
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=2Z4gighBdFsJeUdukUg6mS8lrHxIjvKr&sid=Im10GSRlSPSVtOXdLXzUwkqYxYmPYO51&pid=Ehe2xfRm7aUpOzBcWkQ2YyDcubUYyRHR&an=screen&at=web-app&av=v5.2.210&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=lWSlzw3cSbWPFwgH7RzieF0hVVdhGvcZJ5wDYyBdRFbnKcSnxaiaycsUiILYFGxJe1DWZpPOzC2&type=dvr
 
 #EXTINF:0 tvg-id="Miami TV" group-title="GENERALISTAS",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
