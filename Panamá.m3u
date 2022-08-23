@@ -28,8 +28,11 @@ https://stream-07.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpocOqBDyoy1ZGprC6Q
 #EXTINF:0 tvg-id="OyeTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Oyetv.png" group-title="Panamá",OyeTv
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=2Z4gighBdFsJeUdukUg6mS8lrHxIjvKr&sid=Im10GSRlSPSVtOXdLXzUwkqYxYmPYO51&pid=Ehe2xfRm7aUpOzBcWkQ2YyDcubUYyRHR&an=screen&at=web-app&av=v5.2.210&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=324x216&without_cookies=false&dvrOffset=10860&dnt=true&access_token=lWSlzw3cSbWPFwgH7RzieF0hVVdhGvcZJ5wDYyBdRFbnKcSnxaiaycsUiILYFGxJe1DWZpPOzC2&type=dvr
 
-#EXTINF:0 tvg-id="OyeTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="Panamá",OyeTv
+#EXTINF:0 tvg-id="Mas23TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="Panamá",Mas23TV
 https://mediacp.us:8081/23tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="Enlace TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="Panamá",Enlace TV
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="Miami TV" tvg-logo="https://image.roku.com/channels/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Miami",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
