@@ -31,7 +31,7 @@ https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?uid=2Z4gig
 #EXTINF:0 tvg-id="Mas23TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="Panamá",Mas23TV
 https://mediacp.us:8081/23tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Enlace TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="Panamá",Enlace TV
+#EXTINF:0 tvg-id="Enlace TV" tvg-logo="http://3.bp.blogspot.com/-Y8kFSFULNsI/UhnGNWboOhI/AAAAAAAACss/t6qJbxMufVs/s1600/EnlaceTv+Una+Explotaci%C3%B3n+Que+Viene+Del+Infierno.jpg" group-title="Panamá",Enlace TV
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="Miami TV" tvg-logo="https://image.roku.com/channels/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Miami",Miami TV
